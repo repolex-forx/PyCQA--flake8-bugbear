@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/flake8-bugbear/commit/22a93344f33ff79bad167d6eeb30796ffb84dfbb",
       "git:hexsha": "22a93344f33ff79bad167d6eeb30796ffb84dfbb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/flake8-bugbear/commit/962af58bbf2263022f60c5d72414cc2aff8196bb",
