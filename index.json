@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "flake8-bugbear",
+  "versions": [
+    {
+      "commit": "22a93344f33ff79bad167d6eeb30796ffb84dfbb",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:17:18.581861+00:00"
+    }
+  ]
+}
